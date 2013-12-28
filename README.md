@@ -1,4 +1,4 @@
-InfoSaône / OpenERP Tutoriel 11 - Personnalisation des listes
+InfoSaône / OpenERP Tutoriel 11 - Tri des listes (tree)
 ===================
 
 Le but de ce module est de montrer comment changer l'ordre de tri par défaut des listes (tree) d'un objet (modèle).
