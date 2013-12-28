@@ -11,9 +11,9 @@
 InfoSaône / Module OpenERP Tutoriel 11 
 ===================================================
 
-Le but de ce module est de montrer les différentes possibilités de personnalisation des listes.
+Le but de ce module est de montrer comment changer l'ordre de tri par défaut des listes (tree) d'un objet (modèle).
 
-Ce module installe le module account_voucher pour pouvoir ajouter des listes sur les factures
+Ce module installe le module `account_voucher` pour pouvoir modifier l'ordre de tri par défaut des factures.
 
 Le fichier `account_invoice.py` permet de surcharger le modèle `account.invoice`.
 
